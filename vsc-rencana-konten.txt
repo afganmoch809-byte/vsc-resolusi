@@ -3,6 +3,7 @@ VSC RENCANA KONTEN
 -Javascript
  *framework javascript
  *ES6
+-Struktur Data Dasar
 -PHP frameworks
 -Interview
 -vlog

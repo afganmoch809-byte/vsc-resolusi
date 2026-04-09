@@ -2,10 +2,13 @@ VSC RENCANA KONTEN
 
 -Javascript
  *framework javascript
-  ^Angular
+  ^vue
+main
   ^react
  *ES6
 -PHP frameworks
-  ^laravel
+  ^Laravel
+ main
 -Interview
 -vlog
+-python

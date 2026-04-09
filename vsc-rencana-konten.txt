@@ -1,6 +1,8 @@
 VSC RENCANA KONTEN
 
 -Javascript
+ *framework javascript
+ *ES6
 -PHP frameworks
 -Interview
 -vlog
